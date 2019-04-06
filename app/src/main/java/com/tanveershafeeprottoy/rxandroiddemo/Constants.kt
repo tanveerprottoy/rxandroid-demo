@@ -1,0 +1,27 @@
+package com.tanveershafeeprottoy.rxandroiddemo
+
+object Constants {
+    const val PACKAGE_NAME = "com.parkkori.quizapp"
+    const val AUTHORIZATION = "Authorization"
+    const val USER_NAME_JSON = "user_name"
+    const val PASS_JSON = "password"
+    const val PHONE_NUMBER_PATTERN = "^01\\d{9}"
+    const val YOUTUBE_API_KEY = "AIzaSyCDUwVn6pFdmHbVE7iU2Q9wINAzAhCNLTw"
+    const val BASE_URL = "https://jsonplaceholder.typicode.com/"
+    const val USERS_URL = "users"
+    const val POSTS_URL = "posts"
+    const val GENERATE_URL = "/generate"
+    const val VERIFY_URL = "/verify"
+    const val CREATE_URL = "/create"
+    const val UPCOMING_URL = "/upcoming"
+    const val DETAIL_URL = "/detail"
+    const val SLASH = "/"
+    const val OTP_TOKEN_KEY = "otpToken"
+    const val OTP_TOKEN_EXPIRATION_KEY = "otpTokenExpKey"
+    const val USER_ID_KEY = "userIdKey"
+    const val USER_NAME_KEY = "userName"
+    const val PAGE_INDEX_PARAM = "pageIndex"
+    const val PAGE_LIMIT_PARAM = "pageLimit"
+    const val WITH_QUIZ_PARAM = "withQuiz"
+    const val COMPETITION_ID_PATH = "competitionIdPath"
+}
